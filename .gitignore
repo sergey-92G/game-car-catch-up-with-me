@@ -1,0 +1,31 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+venv/
+env/
+.venv/
+.env/
+
+# Файлы Pycharm, VSCode и других IDE
+.idea/
+.vscode/
+
+# Логи и файлы настроек
+*.log
+
+# Файлы системы
+.DS_Store
+Thumbs.db
+
+# Файлы компиляции (если появятся)
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Файлы сохранений и временные
+*.tmp
+*.temp
